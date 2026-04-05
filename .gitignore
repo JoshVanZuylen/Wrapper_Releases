@@ -1,6 +1,8 @@
 # Ignore everything by default
 *
 
-# Allow this gitignore and the README
+# Allow repo essentials
 !.gitignore
 !README.md
+!assets/
+!assets/**
